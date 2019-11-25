@@ -1,0 +1,1012 @@
+,town,year,tenant_rental_assistance,total_assisted_units
+0,Andover,2016,0,40.0
+1,Ansonia,2016,658,1118.0
+2,Ashford,2016,2,67.0
+3,Avon,2016,8,283.0
+4,Barkhamsted,2016,7,20.0
+5,Beacon Falls,2016,3,37.0
+6,Berlin,2016,47,715.0
+7,Bethany,2016,2,10.0
+8,Bethel,2016,22,341.0
+9,Bethlehem,2016,0,28.0
+10,Bloomfield,2016,93,976.0
+11,Bolton,2016,2,20.0
+12,Bozrah,2016,3,33.0
+13,Branford,2016,63,451.0
+14,Bridgeport,2016,4102,11300.0
+15,Bridgewater,2016,0,4.0
+16,Bristol,2016,844,3691.0
+17,Brookfield,2016,22,256.0
+18,Brooklyn,2016,12,346.0
+19,Burlington,2016,0,72.0
+20,Canaan,2016,5,56.0
+21,Canterbury,2016,1,139.0
+22,Canton,2016,15,304.0
+23,Chaplin,2016,0,33.0
+24,Cheshire,2016,20,365.0
+25,Chester,2016,3,40.0
+26,Clinton,2016,16,134.0
+27,Colchester,2016,40,524.0
+28,Colebrook,2016,0,8.0
+29,Columbia,2016,2,98.0
+30,Cornwall,2016,2,33.0
+31,Coventry,2016,4,249.0
+32,Cromwell,2016,7,380.0
+33,Danbury,2016,926,3278.0
+34,Darien,2016,6,241.0
+35,Deep River,2016,3,49.0
+36,Derby,2016,316,666.0
+37,Durham,2016,0,46.0
+38,East Granby,2016,0,110.0
+39,East Haddam,2016,3,99.0
+40,East Hampton,2016,6,176.0
+41,East Hartford,2016,859,3339.0
+42,East Haven,2016,140,948.0
+43,East Lyme,2016,16,508.0
+44,East Windsor,2016,34,706.0
+45,Eastford,2016,0,18.0
+46,Easton,2016,0,16.0
+47,Ellington,2016,5,362.0
+48,Enfield,2016,217,2104.0
+49,Essex,2016,3,49.0
+50,Fairfield,2016,108,481.0
+51,Farmington,2016,108,851.0
+52,Franklin,2016,0,49.0
+53,Glastonbury,2016,36,727.0
+54,Goshen,2016,1,7.0
+55,Granby,2016,1,132.0
+56,Greenwich,2016,338,1259.0
+57,Griswold,2016,58,380.0
+58,Groton,2016,103,4026.0
+59,Guilford,2016,7,225.0
+60,Haddam,2016,0,52.0
+61,Hamden,2016,635,2006.0
+62,Hampton,2016,1,28.0
+63,Hartford,2016,8439,19839.0
+64,Hartland,2016,0,5.0
+65,Harwinton,2016,4,55.0
+66,Hebron,2016,3,94.0
+67,Kent,2016,5,62.0
+68,Killingly,2016,112,929.0
+69,Killingworth,2016,0,23.0
+70,Lebanon,2016,4,104.0
+71,Ledyard,2016,8,226.0
+72,Lisbon,2016,0,51.0
+73,Litchfield,2016,7,188.0
+74,Lyme,2016,0,10.0
+75,Madison,2016,3,130.0
+76,Manchester,2016,890,3600.0
+77,Mansfield,2016,123,641.0
+78,Marlborough,2016,2,48.0
+79,Meriden,2016,1103,4077.0
+80,Middlebury,2016,4,114.0
+81,Middlefield,2016,4,46.0
+82,Middletown,2016,1035,4524.0
+83,Milford,2016,220,1212.0
+84,Monroe,2016,3,69.0
+85,Montville,2016,45,349.0
+86,Morris,2016,3,25.0
+87,Naugatuck,2016,270,1050.0
+88,New Britain,2016,1478,5689.0
+89,New Canaan,2016,13,201.0
+90,New Fairfield,2016,4,72.0
+91,New Hartford,2016,8,80.0
+92,New Haven,2016,5709,16432.0
+93,New London,2016,449,2717.0
+94,New Milford,2016,23,436.0
+95,Newington,2016,108,1058.0
+96,Newtown,2016,6,218.0
+97,Norfolk,2016,3,36.0
+98,North Branford,2016,14,126.0
+99,North Canaan,2016,0,146.0
+100,North Haven,2016,47,467.0
+101,North Stonington,2016,2,34.0
+102,Norwalk,2016,1277,4501.0
+103,Norwich,2016,784,3493.0
+104,Old Lyme,2016,2,73.0
+105,Old Saybrook,2016,9,92.0
+106,Orange,2016,6,71.0
+107,Oxford,2016,5,68.0
+108,Plainfield,2016,177,837.0
+109,Plainville,2016,48,524.0
+110,Plymouth,2016,11,376.0
+111,Pomfret,2016,2,48.0
+112,Portland,2016,84,335.0
+113,Preston,2016,8,85.0
+114,Prospect,2016,6,45.0
+115,Putnam,2016,67,562.0
+116,Redding,2016,0,9.0
+117,Ridgefield,2016,5,269.0
+118,Rocky Hill,2016,31,414.0
+119,Roxbury,2016,0,22.0
+120,Salem,2016,2,28.0
+121,Salisbury,2016,1,31.0
+122,Scotland,2016,0,17.0
+123,Seymour,2016,23,382.0
+124,Sharon,2016,3,37.0
+125,Shelton,2016,38,470.0
+126,Sherman,2016,2,8.0
+127,Simsbury,2016,61,409.0
+128,Somers,2016,7,183.0
+129,South Windsor,2016,50,662.0
+130,Southbury,2016,7,125.0
+131,Southington,2016,49,868.0
+132,Sprague,2016,14,70.0
+133,Stafford,2016,13,405.0
+134,Stamford,2016,1753,8103.0
+135,Sterling,2016,7,40.0
+136,Stonington,2016,16,458.0
+137,Stratford,2016,421,1259.0
+138,Suffield,2016,2,276.0
+139,Thomaston,2016,6,186.0
+140,Thompson,2016,16,246.0
+141,Tolland,2016,3,161.0
+142,Torrington,2016,390,1810.0
+143,Trumbull,2016,15,598.0
+144,Union,2016,0,4.0
+145,Vernon,2016,399,2180.0
+146,Voluntown,2016,3,49.0
+147,Wallingford,2016,116,758.0
+148,Warren,2016,0,1.0
+149,Washington,2016,5,52.0
+150,Waterbury,2016,2969,10198.0
+151,Waterford,2016,20,362.0
+152,Watertown,2016,23,387.0
+153,West Hartford,2016,786,1928.0
+154,West Haven,2016,1476,2911.0
+155,Westbrook,2016,8,195.0
+156,Weston,2016,1,3.0
+157,Westport,2016,54,324.0
+158,Wethersfield,2016,99,945.0
+159,Willington,2016,4,197.0
+160,Wilton,2016,8,258.0
+161,Winchester,2016,187,656.0
+162,Windham,2016,608,2771.0
+163,Windsor,2016,221,769.0
+164,Windsor Locks,2016,147,460.0
+165,Wolcott,2016,7,443.0
+166,Woodbridge,2016,6,41.0
+167,Woodbury,2016,3,84.0
+168,Woodstock,2016,1,74.0
+169,Andover,2015,0,55.0
+170,Ansonia,2015,654,1159.0
+171,Ashford,2015,2,79.0
+172,Avon,2015,7,283.0
+173,Barkhamsted,2015,5,20.0
+174,Beacon Falls,2015,3,41.0
+175,Berlin,2015,43,719.0
+176,Bethany,2015,1,7.0
+177,Bethel,2015,15,370.0
+178,Bethlehem,2015,0,26.0
+179,Bloomfield,2015,90,1009.0
+180,Bolton,2015,2,25.0
+181,Bolton,2015,20,1.14
+182,Bozrah,2015,2,33.0
+183,Branford,2015,60,484.0
+184,Bridgeport,2015,3983,11339.0
+185,Bridgewater,2015,0,4.0
+186,Bristol,2015,780,3840.0
+187,Brookfield,2015,8,221.0
+188,Brooklyn,2015,11,358.0
+189,Burlington,2015,0,66.0
+190,Canaan,2015,2,54.0
+191,Canterbury,2015,1,139.0
+192,Canton,2015,14,328.0
+193,Chaplin,2015,0,32.0
+194,Cheshire,2015,16,395.0
+195,Chester,2015,3,40.0
+196,Clinton,2015,13,143.0
+197,Colchester,2015,34,531.0
+198,Colebrook,2015,0,9.0
+199,Columbia,2015,3,104.0
+200,Cornwall,2015,2,34.0
+201,Coventry,2015,3,299.0
+202,Cromwell,2015,9,452.0
+203,Danbury,2015,909,3207.0
+204,Darien,2015,6,238.0
+205,Deep River,2015,2,54.0
+206,Derby,2015,322,674.0
+207,Durham,2015,1,52.0
+208,East Granby,2015,1,113.0
+209,East Haddam,2015,3,114.0
+210,East Hampton,2015,8,203.0
+211,East Hartford,2015,759,3483.0
+212,East Haven,2015,139,1020.0
+213,East Lyme,2015,12,534.0
+214,East Windsor,2015,33,736.0
+215,Eastford,2015,0,23.0
+216,Easton,2015,0,15.0
+217,Ellington,2015,5,382.0
+218,Enfield,2015,199,2194.0
+219,Essex,2015,5,50.0
+220,Fairfield,2015,104,503.0
+221,Farmington,2015,107,901.0
+222,Franklin,2015,0,48.0
+223,Glastonbury,2015,33,759.0
+224,Goshen,2015,1,9.0
+225,Granby,2015,1,142.0
+226,Greenwich,2015,337,1363.0
+227,Griswold,2015,74,431.0
+228,Groton,2015,93,4076.0
+229,Guilford,2015,7,233.0
+230,Haddam,2015,0,42.0
+231,Hamden,2015,554,1989.0
+232,Hampton,2015,1,37.0
+233,Hartford,2015,8532,20850.0
+234,Hartland,2015,0,9.0
+235,Harwinton,2015,2,59.0
+236,Hebron,2015,2,104.0
+237,Kent,2015,4,61.0
+238,Killingly,2015,106,1050.0
+239,Killingworth,2015,0,20.0
+240,Lebanon,2015,4,109.0
+241,Ledyard,2015,6,260.0
+242,Lisbon,2015,0,60.0
+243,Litchfield,2015,5,196.0
+244,Lyme,2015,0,10.0
+245,Madison,2015,2,130.0
+246,Manchester,2015,839,3764.0
+247,Mansfield,2015,121,651.0
+248,Marlborough,2015,2,50.0
+249,Meriden,2015,1102,4268.0
+250,Middletown,2015,1121,4943.0
+251,Milford,2015,211,1266.0
+252,Monroe,2015,3,65.0
+253,Montville,2015,37,375.0
+254,Morris,2015,4,25.0
+255,Naugatuck,2015,260,1134.0
+256,New Britain,2015,1423,6281.0
+257,New Canaan,2015,10,199.0
+258,New Fairfield,2015,1,52.0
+259,New Hartford,2015,6,79.0
+260,New Haven,2015,5654,16620.0
+261,New London,2015,449,2777.0
+262,New Milford,2015,24,498.0
+263,Newington,2015,104,1124.0
+264,Newtown,2015,3,195.0
+265,Norfolk,2015,3,37.0
+266,North Branford,2015,11,136.0
+267,North Canaan,2015,1,149.0
+268,North Haven,2015,40,474.0
+269,North Stonington,2015,2,31.0
+270,Norwalk,2015,1065,4363.0
+271,Norwich,2015,762,3576.0
+272,Old Lyme,2015,3,75.0
+273,Old Saybrook,2015,7,97.0
+274,Orange,2015,6,71.0
+275,Oxford,2015,4,58.0
+276,Plainfield,2015,180,939.0
+277,Plainville,2015,22,618.0
+278,Plymouth,2015,10,398.0
+279,Pomfret,2015,1,55.0
+280,Portland,2015,83,341.0
+281,Preston,2015,5,90.0
+282,Prospect,2015,4,42.0
+283,Putnam,2015,65,618.0
+284,Redding,2015,0,1.0
+285,Ridgefield,2015,3,256.0
+286,Rocky Hill,2015,25,454.0
+287,Roxbury,2015,0,21.0
+288,Salem,2015,0,32.0
+289,Salisbury,2015,2,35.0
+290,Scotland,2015,0,17.0
+291,Seymour,2015,21,396.0
+292,Sharon,2015,2,26.0
+293,Shelton,2015,42,571.0
+294,Sherman,2015,2,6.0
+295,Simsbury,2015,19,339.0
+296,Somers,2015,10,189.0
+297,Southbury,2015,6,121.0
+298,Sprague,2015,13,72.0
+299,Stafford,2015,10,472.0
+300,Stamford,2015,1836,8502.0
+301,Sterling,2015,6,50.0
+302,Stonington,2015,16,471.0
+303,Stratford,2015,392,1260.0
+304,Suffield,2015,2,297.0
+305,Thomaston,2015,4,226.0
+306,Thompson,2015,11,274.0
+307,Tolland,2015,3,191.0
+308,Torrington,2015,316,2113.0
+309,Trumbull,2015,16,588.0
+310,Union,2015,0,10.0
+311,Vernon,2015,371,2264.0
+312,Voluntown,2015,4,54.0
+313,Wallingford,2015,116,969.0
+314,Warren,2015,0,5.0
+315,Washington,2015,5,46.0
+316,Waterbury,2015,2904,11066.0
+317,Waterford,2015,21,403.0
+318,Watertown,2015,22,394.0
+319,West Hartford,2015,720,1981.0
+320,West Haven,2015,1438,2930.0
+321,Westbrook,2015,7,188.0
+322,Weston,2015,1,3.0
+323,Westport,2015,50,319.0
+324,Wethersfield,2015,96,989.0
+325,Willington,2015,1,208.0
+326,Wilton,2015,6,254.0
+327,Winchester,2015,214,723.0
+328,Windham,2015,596,2992.0
+329,Windsor,2015,207,824.0
+330,Windsor Locks,2015,140,486.0
+331,Wolcott,2015,5,471.0
+332,Woodbridge,2015,5,41.0
+333,Woodbury,2015,3,88.0
+334,Woodstock,2015,2,98.0
+335,Andover,2014,1,57.0
+336,Ansonia,2014,642,1134.0
+337,Ashford,2014,2,84.0
+338,Avon,2014,8,278.0
+339,Barkhamsted,2014,4,17.0
+340,Beacon Falls,2014,2,33.0
+341,Berlin,2014,43,699.0
+342,Bethany,2014,0,3.0
+343,Bethel,2014,15,397.0
+344,Bethlehem,2014,0,25.0
+345,Bloomfield,2014,149,1051.0
+346,Bolton,2014,3,26.0
+347,Bozrah,2014,2,36.0
+348,Branford,2014,56,478.0
+349,Bridgeport,2014,3779,10705.0
+350,Bridgewater,2014,0,2.0
+351,Bristol,2014,823,3521.0
+352,Brookfield,2014,7,160.0
+353,Brooklyn,2014,12,378.0
+354,Burlington,2014,0,61.0
+355,Canaan,2014,3,59.0
+356,Canterbury,2014,0,155.0
+357,Canton,2014,17,328.0
+358,Chaplin,2014,0,36.0
+359,Cheshire,2014,12,384.0
+360,Chester,2014,3,38.0
+361,Clinton,2014,9,140.0
+362,Colchester,2014,34,543.0
+363,Colebrook,2014,0,11.0
+364,Columbia,2014,3,90.0
+365,Cornwall,2014,2,23.0
+366,Coventry,2014,1,300.0
+367,Cromwell,2014,13,428.0
+368,Danbury,2014,904,3131.0
+369,Darien,2014,7,239.0
+370,Deep River,2014,24,76.0
+371,Derby,2014,314,658.0
+372,Durham,2014,4,54.0
+373,East Granby,2014,2,109.0
+374,East Haddam,2014,1,122.0
+375,East Hampton,2014,5,198.0
+376,East Hartford,2014,1054,3706.0
+377,East Haven,2014,141,990.0
+378,East Lyme,2014,10,520.0
+379,East Windsor,2014,43,735.0
+380,Eastford,2014,0,24.0
+381,Easton,2014,0,11.0
+382,Ellington,2014,9,375.0
+383,Enfield,2014,211,2139.0
+384,Essex,2014,5,53.0
+385,Fairfield,2014,94,485.0
+386,Farmington,2014,110,884.0
+387,Franklin,2014,0,43.0
+388,Glastonbury,2014,37,746.0
+389,Goshen,2014,0,10.0
+390,Granby,2014,1,138.0
+391,Greenwich,2014,334,1229.0
+392,Griswold,2014,67,457.0
+393,Groton,2014,76,4044.0
+394,Guilford,2014,7,220.0
+395,Haddam,2014,0,47.0
+396,Hamden,2014,545,1929.0
+397,Hampton,2014,2,44.0
+398,Hartford,2014,7812,19634.0
+399,Hartland,2014,1,11.0
+400,Harwinton,2014,0,58.0
+401,Hebron,2014,3,107.0
+402,Kent,2014,4,60.0
+403,Killingly,2014,107,1090.0
+404,Killingworth,2014,0,16.0
+405,Lebanon,2014,5,119.0
+406,Ledyard,2014,5,241.0
+407,Lisbon,2014,0,59.0
+408,Litchfield,2014,5,202.0
+409,Lyme,2014,0,10.0
+410,Madison,2014,1,130.0
+411,Manchester,2014,977,3770.0
+412,Mansfield,2014,125,661.0
+413,Marlborough,2014,2,49.0
+414,Meriden,2014,1033,4136.0
+415,Middlebury,2014,3,115.0
+416,Middlefield,2014,2,46.0
+417,Middletown,2014,1047,4660.0
+418,Milford,2014,212,1265.0
+419,Monroe,2014,3,59.0
+420,Montville,2014,28,349.0
+421,Morris,2014,4,25.0
+422,Naugatuck,2014,368,1216.0
+423,New Britain,2014,1602,6597.0
+424,New Canaan,2014,9,205.0
+425,New Fairfield,2014,0,40.0
+426,New Hartford,2014,5,78.0
+427,New Haven,2014,5336,15985.0
+428,New London,2014,674,2944.0
+429,New Milford,2014,27,459.0
+430,Newington,2014,148,1111.0
+431,Newtown,2014,3,181.0
+432,Norfolk,2014,2,39.0
+433,North Branford,2014,10,134.0
+434,North Canaan,2014,1,147.0
+435,North Haven,2014,36,456.0
+436,North Stonington,2014,2,24.0
+437,Norwalk,2014,997,4191.0
+438,Norwich,2014,721,3384.0
+439,Old Lyme,2014,2,78.0
+440,Old Saybrook,2014,7,96.0
+441,Orange,2014,6,68.0
+442,Oxford,2014,3,51.0
+443,Plainfield,2014,166,1003.0
+444,Plainville,2014,21,596.0
+445,Plymouth,2014,18,420.0
+446,Pomfret,2014,1,61.0
+447,Portland,2014,82,331.0
+448,Preston,2014,5,89.0
+449,Prospect,2014,4,42.0
+450,Putnam,2014,69,660.0
+451,Redding,2014,0,0.0
+452,Ridgefield,2014,1,237.0
+453,Rocky Hill,2014,30,444.0
+454,Roxbury,2014,0,20.0
+455,Salem,2014,0,35.0
+456,Salisbury,2014,2,37.0
+457,Scotland,2014,0,13.0
+458,Seymour,2014,18,377.0
+459,Sharon,2014,2,26.0
+460,Shelton,2014,34,547.0
+461,Sherman,2014,2,5.0
+462,Simsbury,2014,19,322.0
+463,Somers,2014,12,189.0
+464,South Windsor,2014,49,715.0
+465,Southbury,2014,4,112.0
+466,Lyme,2012,0,10.0
+467,Southington,2014,67,1022.0
+468,Sprague,2014,13,80.0
+469,Stafford,2014,13,422.0
+470,Stamford,2014,1732,8215.0
+471,Sterling,2014,6,67.0
+472,Stonington,2014,15,383.0
+473,Stratford,2014,381,1216.0
+474,Suffield,2014,3,294.0
+475,Thomaston,2014,4,223.0
+476,Thompson,2014,25,309.0
+477,Tolland,2014,2,196.0
+478,Torrington,2014,277,2045.0
+479,Trumbull,2014,15,683.0
+480,Union,2014,0,12.0
+481,Vernon,2014,391,2164.0
+482,Voluntown,2014,4,62.0
+483,Wallingford,2014,115,941.0
+484,Warren,2014,0,5.0
+485,Washington,2014,6,50.0
+486,Waterbury,2014,3074,10898.0
+487,Waterford,2014,20,382.0
+488,Watertown,2014,18,368.0
+489,West Hartford,2014,832,2056.0
+490,West Haven,2014,1451,2904.0
+491,Westbrook,2014,7,188.0
+492,Weston,2014,1,1.0
+493,Westport,2014,45,313.0
+494,Wethersfield,2014,134,980.0
+495,Willington,2014,1,207.0
+496,Wilton,2014,7,250.0
+497,Winchester,2014,444,979.0
+498,Windham,2014,541,2978.0
+499,Windsor,2014,297,878.0
+500,Windsor Locks,2014,153,477.0
+501,Wolcott,2014,4,448.0
+502,Woodbridge,2014,5,41.0
+503,Woodbury,2014,2,86.0
+504,Woodstock,2014,3,99.0
+505,Andover,2013,1,54.0
+506,Ansonia,2013,756,1248.0
+507,Ashford,2013,2,82.0
+508,Avon,2013,7,280.0
+509,Barkhamsted,2013,1,16.0
+510,Beacon Falls,2013,5,37.0
+511,Berlin,2013,29,684.0
+512,Bethany,2013,0,3.0
+513,Bethel,2013,10,389.0
+514,Bethlehem,2013,1,26.0
+515,Bloomfield,2013,147,1045.0
+516,Bolton,2013,3,23.0
+517,Bozrah,2013,4,33.0
+518,Branford,2013,50,472.0
+519,Bridgeport,2013,3781,10553.0
+520,Bridgewater,2013,0,2.0
+521,Bristol,2013,798,3634.0
+522,Brookfield,2013,7,160.0
+523,Brooklyn,2013,11,378.0
+524,Burlington,2013,0,69.0
+525,Canaan,2013,0,36.0
+526,Canterbury,2013,1,146.0
+527,Canton,2013,19,325.0
+528,Chaplin,2013,0,28.0
+529,Cheshire,2013,7,337.0
+530,Chester,2013,2,38.0
+531,Clinton,2013,5,137.0
+532,Colchester,2013,31,520.0
+533,Colebrook,2013,0,9.0
+534,Columbia,2013,2,86.0
+535,Cornwall,2013,0,24.0
+536,Coventry,2013,1,307.0
+537,Cromwell,2013,6,418.0
+538,Danbury,2013,1180,3405.0
+539,Darien,2013,6,185.0
+540,Deep River,2013,5,58.0
+541,Derby,2013,307,634.0
+542,Durham,2013,1,56.0
+543,Eastford,2013,0,25.0
+544,East Granby,2013,4,113.0
+545,East Haddam,2013,0,116.0
+546,East Hampton,2013,5,200.0
+547,East Hartford,2013,1024,3552.0
+548,East Haven,2013,128,857.0
+549,East Lyme,2013,8,473.0
+550,Easton,2013,0,11.0
+551,East Windsor,2013,49,748.0
+552,Ellington,2013,8,393.0
+553,Enfield,2013,215,2143.0
+554,Essex,2013,6,55.0
+555,Fairfield,2013,181,572.0
+556,Farmington,2013,110,858.0
+557,Franklin,2013,1,21.0
+558,Glastonbury,2013,47,755.0
+559,Goshen,2013,0,8.0
+560,Granby,2013,2,152.0
+561,Greenwich,2013,421,1314.0
+562,Griswold,2013,41,416.0
+563,Groton,2013,52,3690.0
+564,Guilford,2013,6,216.0
+565,Haddam,2013,1,44.0
+566,Hamden,2013,523,1689.0
+567,Hampton,2013,0,32.0
+568,Hartford,2013,8525,19588.0
+569,Hartland,2013,0,12.0
+570,Harwinton,2013,0,57.0
+571,Hebron,2013,3,108.0
+572,Kent,2013,0,28.0
+573,Killingly,2013,125,1134.0
+574,Killingworth,2013,2,17.0
+575,Lebanon,2013,4,109.0
+576,Ledyard,2013,6,264.0
+577,Lisbon,2013,0,66.0
+578,Litchfield,2013,1,186.0
+579,Lyme,2013,0,10.0
+580,Madison,2013,1,130.0
+581,Manchester,2013,1074,3868.0
+582,Mansfield,2013,153,680.0
+583,Marlborough,2013,0,53.0
+584,Meriden,2013,1012,3833.0
+585,Middlebury,2013,4,108.0
+586,Middlefield,2013,1,44.0
+587,Middletown,2013,1467,4965.0
+588,Milford,2013,277,1426.0
+589,Monroe,2013,1,59.0
+590,Montville,2013,30,373.0
+591,Morris,2013,2,23.0
+592,Naugatuck,2013,293,1097.0
+593,New Britain,2013,1627,6467.0
+594,New Canaan,2013,10,205.0
+595,New Fairfield,2013,0,49.0
+596,New Hartford,2013,1,70.0
+597,New Haven,2013,6232,16286.0
+598,Newington,2013,105,956.0
+599,New London,2013,144,2381.0
+600,New Milford,2013,259,680.0
+601,Newtown,2013,2,186.0
+602,Norfolk,2013,0,31.0
+603,North Branford,2013,7,131.0
+604,North Canaan,2013,0,109.0
+605,North Haven,2013,28,448.0
+606,North Stonington,2013,1,29.0
+607,Norwalk,2013,957,4116.0
+608,Norwich,2013,728,3250.0
+609,Old Lyme,2013,1,75.0
+610,Old Saybrook,2013,5,92.0
+611,Orange,2013,4,66.0
+612,Oxford,2013,1,51.0
+613,Plainfield,2013,224,988.0
+614,Plainville,2013,25,600.0
+615,Plymouth,2013,5,363.0
+616,Pomfret,2013,2,62.0
+617,Portland,2013,92,339.0
+618,Preston,2013,4,91.0
+619,Prospect,2013,4,38.0
+620,Putnam,2013,79,662.0
+621,Redding,2013,0,0.0
+622,Ridgefield,2013,0,230.0
+623,Rocky Hill,2013,29,444.0
+624,Roxbury,2013,0,21.0
+625,Salem,2013,0,35.0
+626,Salisbury,2013,1,34.0
+627,Scotland,2013,0,16.0
+628,Seymour,2013,16,381.0
+629,Sharon,2013,0,24.0
+630,Shelton,2013,21,444.0
+631,Sherman,2013,1,4.0
+632,Simsbury,2013,11,314.0
+633,Somers,2013,7,182.0
+634,Southbury,2013,2,114.0
+635,Southington,2013,42,997.0
+636,South Windsor,2013,54,720.0
+637,Sprague,2013,9,64.0
+638,Stafford,2013,11,387.0
+639,Stamford,2013,1631,8115.0
+640,Sterling,2013,1,62.0
+641,Stonington,2013,17,379.0
+642,Stratford,2013,375,1210.0
+643,Suffield,2013,0,297.0
+644,Thomaston,2013,4,226.0
+645,Thompson,2013,13,323.0
+646,Tolland,2013,1,211.0
+647,Torrington,2013,355,2123.0
+648,Trumbull,2013,12,677.0
+649,Union,2013,0,16.0
+650,Vernon,2013,533,2306.0
+651,Voluntown,2013,2,53.0
+652,Wallingford,2013,140,967.0
+653,Warren,2013,0,8.0
+654,Washington,2013,0,38.0
+655,Waterbury,2013,3635,11189.0
+656,Waterford,2013,17,390.0
+657,Watertown,2013,24,375.0
+658,Westbrook,2013,8,187.0
+659,West Hartford,2013,943,2136.0
+660,West Haven,2013,1613,3066.0
+661,Weston,2013,1,1.0
+662,Westport,2013,20,286.0
+663,Wethersfield,2013,127,983.0
+664,Willington,2013,2,212.0
+665,Wilton,2013,5,247.0
+666,Winchester,2013,269,735.0
+667,Windham,2013,533,2775.0
+668,Windsor,2013,282,861.0
+669,Windsor Locks,2013,178,502.0
+670,Wolcott,2013,3,446.0
+671,Woodbridge,2013,3,39.0
+672,Woodbury,2013,4,89.0
+673,Woodstock,2013,3,114.0
+674,Andover,2012,1,47.0
+675,Ansonia,2012,699,1186.0
+676,Ashford,2012,2,71.0
+677,Avon,2012,7,270.0
+678,Barkhamsted,2012,1,13.0
+679,Beacon Falls,2012,5,31.0
+680,Berlin,2012,29,585.0
+681,Bethany,2012,0,2.0
+682,Bethel,2012,10,380.0
+683,Bethlehem,2012,1,25.0
+684,Bloomfield,2012,147,1026.0
+685,Bolton,2012,3,19.0
+686,Bozrah,2012,4,23.0
+687,Branford,2012,50,456.0
+688,Bridgeport,2012,3498,10086.0
+689,Bridgewater,2012,0,2.0
+690,Bristol,2012,793,3578.0
+691,Brookfield,2012,7,139.0
+692,Brooklyn,2012,11,324.0
+693,Burlington,2012,0,57.0
+694,Canaan,2012,0,35.0
+695,Canterbury,2012,1,117.0
+696,Canton,2012,19,317.0
+697,Chaplin,2012,0,24.0
+698,Cheshire,2012,7,331.0
+699,Chester,2012,2,35.0
+700,Clinton,2012,5,132.0
+701,Colchester,2012,31,488.0
+702,Colebrook,2012,0,8.0
+703,Columbia,2012,2,69.0
+704,Cornwall,2012,0,20.0
+705,Coventry,2012,1,261.0
+706,Cromwell,2012,6,417.0
+707,Danbury,2012,1181,3274.0
+708,Darien,2012,6,183.0
+709,Deep River,2012,5,54.0
+710,Derby,2012,307,629.0
+711,Durham,2012,1,47.0
+712,East Granby,2012,4,108.0
+713,East Haddam,2012,0,104.0
+714,East Hampton,2012,5,176.0
+715,East Hartford,2012,1024,3509.0
+716,East Haven,2012,128,843.0
+717,East Lyme,2012,8,449.0
+718,East Windsor,2012,49,721.0
+719,Eastford,2012,0,19.0
+720,Easton,2012,0,11.0
+721,Ellington,2012,8,351.0
+722,Enfield,2012,215,2108.0
+723,Essex,2012,6,51.0
+724,Fairfield,2012,181,567.0
+725,Farmington,2012,110,838.0
+726,Franklin,2012,1,17.0
+727,Glastonbury,2012,47,753.0
+728,Goshen,2012,0,6.0
+729,Granby,2012,2,134.0
+730,Greenwich,2012,421,1314.0
+731,Griswold,2012,41,336.0
+732,Groton,2012,52,3666.0
+733,Guilford,2012,6,203.0
+734,Haddam,2012,1,38.0
+735,Hamden,2012,523,1659.0
+736,Hampton,2012,0,18.0
+737,Hartford,2012,8390,19245.0
+738,Hartland,2012,0,8.0
+739,Harwinton,2012,0,48.0
+740,Hebron,2012,3,98.0
+741,Kent,2012,0,52.0
+742,Killingly,2012,120,959.0
+743,Killingworth,2012,2,12.0
+744,Lebanon,2012,4,86.0
+745,Ledyard,2012,6,206.0
+746,Lisbon,2012,0,45.0
+747,Litchfield,2012,1,182.0
+748,Madison,2012,1,128.0
+749,Manchester,2012,1074,3807.0
+750,Mansfield,2012,153,658.0
+751,Marlborough,2012,0,44.0
+752,Meriden,2012,1008,3810.0
+753,Middlebury,2012,4,100.0
+754,Middlefield,2012,1,42.0
+755,Middletown,2012,987,4416.0
+756,Milford,2012,277,1396.0
+757,Monroe,2012,1,56.0
+758,Montville,2012,30,312.0
+759,Morris,2012,2,22.0
+760,Naugatuck,2012,293,1086.0
+761,New Britain,2012,1627,6345.0
+762,New Canaan,2012,10,183.0
+763,New Fairfield,2012,0,38.0
+764,New Hartford,2012,1,66.0
+765,New Haven,2012,6138,16020.0
+766,New London,2012,144,2356.0
+767,New Milford,2012,259,631.0
+768,Newington,2012,105,933.0
+769,Newtown,2012,2,174.0
+770,Norfolk,2012,0,31.0
+771,North Branford,2012,7,124.0
+772,North Canaan,2012,0,108.0
+773,North Haven,2012,28,446.0
+774,North Stonington,2012,1,22.0
+775,Norwalk,2012,947,4049.0
+776,Norwich,2012,728,3152.0
+777,Old Lyme,2012,1,71.0
+778,Old Saybrook,2012,5,72.0
+779,Orange,2012,4,59.0
+780,Oxford,2012,1,45.0
+781,Plainfield,2012,224,898.0
+782,Plainville,2012,25,571.0
+783,Plymouth,2012,5,336.0
+784,Pomfret,2012,2,51.0
+785,Portland,2012,92,328.0
+786,Preston,2012,4,80.0
+787,Prospect,2012,4,29.0
+788,Putnam,2012,73,589.0
+789,Redding,2012,0,0.0
+790,Ridgefield,2012,0,220.0
+791,Rocky Hill,2012,29,438.0
+792,Roxbury,2012,0,20.0
+793,Salem,2012,0,29.0
+794,Salisbury,2012,1,32.0
+795,Scotland,2012,0,11.0
+796,Seymour,2012,16,367.0
+797,Sharon,2012,0,24.0
+798,Shelton,2012,21,440.0
+799,Sherman,2012,1,2.0
+800,Simsbury,2012,11,310.0
+801,Somers,2012,7,79.0
+802,South Windsor,2012,54,716.0
+803,Southbury,2012,2,105.0
+804,Southington,2012,42,983.0
+805,Sprague,2012,9,60.0
+806,Stafford,2012,11,349.0
+807,Stamford,2012,1605,7827.0
+808,Sterling,2012,1,36.0
+809,Stonington,2012,17,365.0
+810,Stratford,2012,375,1191.0
+811,Suffield,2012,0,279.0
+812,Thomaston,2012,4,200.0
+813,Thompson,2012,13,246.0
+814,Tolland,2012,1,180.0
+815,Torrington,2012,297,2007.0
+816,Trumbull,2012,12,676.0
+817,Union,2012,0,9.0
+818,Vernon,2012,533,2283.0
+819,Voluntown,2012,2,45.0
+820,Wallingford,2012,140,955.0
+821,Warren,2012,0,4.0
+822,Washington,2012,0,37.0
+823,Waterbury,2012,3149,10601.0
+824,Waterford,2012,17,348.0
+825,Watertown,2012,24,364.0
+826,West Hartford,2012,943,2075.0
+827,West Haven,2012,1503,2942.0
+828,Westbrook,2012,8,185.0
+829,Weston,2012,1,1.0
+830,Westport,2012,20,282.0
+831,Wethersfield,2012,127,968.0
+832,Willington,2012,2,199.0
+833,Wilton,2012,5,236.0
+834,Winchester,2012,269,707.0
+835,Windham,2012,436,2576.0
+836,Windsor,2012,282,841.0
+837,Windsor Locks,2012,178,497.0
+838,Wolcott,2012,3,436.0
+839,Woodbridge,2012,3,39.0
+840,Woodbury,2012,4,83.0
+841,Woodstock,2012,3,79.0
+842,Ansonia,2011,699,1186.0
+843,Bloomfield,2011,147,1026.0
+844,Bridgeport,2011,3724,10307.0
+845,Bristol,2011,791,3576.0
+846,Danbury,2011,952,3126.0
+847,Derby,2011,305,627.0
+848,East Hartford,2011,835,3320.0
+849,East Windsor,2011,27,691.0
+850,Enfield,2011,215,2108.0
+851,Groton,2011,56,3670.0
+852,Hartford,2011,7577,18432.0
+853,Killingly,2011,124,905.0
+854,Manchester,2011,1011,3743.0
+855,Mansfield,2011,159,654.0
+856,Meriden,2011,970,3772.0
+857,Middletown,2011,1295,4724.0
+858,New Britain,2011,1457,6189.0
+859,New Haven,2011,6116,15940.0
+860,New London,2011,155,2353.0
+861,Norwalk,2011,982,4027.0
+862,Norwich,2011,707,3130.0
+863,Plainfield,2011,225,864.0
+864,Putnam,2011,64,548.0
+865,Stamford,2011,1645,7793.0
+866,Torrington,2011,301,2011.0
+867,Vernon,2011,519,2269.0
+868,Waterbury,2011,3110,10569.0
+869,West Haven,2011,1380,2819.0
+870,Winchester,2011,248,680.0
+871,Windham,2011,560,2679.0
+872,Andover,2011,1,45.0
+873,Ashford,2011,1,68.0
+874,Avon,2011,5,266.0
+875,Barkhamsted,2011,3,14.0
+876,Beacon Falls,2011,6,31.0
+877,Berlin,2011,30,586.0
+878,Bethany,2011,0,1.0
+879,Bethel,2011,9,379.0
+880,Bethlehem,2011,0,24.0
+881,Bolton,2011,3,18.0
+882,Bozrah,2011,4,20.0
+883,Branford,2011,46,452.0
+884,Bridgewater,2011,0,2.0
+885,Brookfield,2011,6,131.0
+886,Brooklyn,2011,9,305.0
+887,Lyme,2011,0,9.0
+888,Burlington,2011,0,53.0
+889,Canaan,2011,0,35.0
+890,Canterbury,2011,1,108.0
+891,Canton,2011,20,315.0
+892,Chaplin,2011,1,24.0
+893,Cheshire,2011,5,329.0
+894,Chester,2011,2,34.0
+895,Clinton,2011,5,131.0
+896,Colchester,2011,26,474.0
+897,Colebrook,2011,0,8.0
+898,Columbia,2011,4,65.0
+899,Cornwall,2011,0,18.0
+900,Coventry,2011,5,245.0
+901,Cromwell,2011,6,417.0
+902,Darien,2011,8,185.0
+903,Deep River,2011,4,52.0
+904,Durham,2011,1,45.0
+905,East Granby,2011,1,103.0
+906,East Haddam,2011,3,104.0
+907,East Hampton,2011,1,165.0
+908,East Haven,2011,254,969.0
+909,East Lyme,2011,61,491.0
+910,Eastford,2011,0,16.0
+911,Easton,2011,33,44.0
+912,Ellington,2011,6,335.0
+913,Essex,2011,4,48.0
+914,Fairfield,2011,182,569.0
+915,Farmington,2011,110,837.0
+916,Franklin,2011,1,16.0
+917,Glastonbury,2011,49,753.0
+918,Goshen,2011,1,7.0
+919,Granby,2011,1,125.0
+920,Greenwich,2011,359,1252.0
+921,Griswold,2011,42,318.0
+922,Guilford,2011,5,201.0
+923,Haddam,2011,1,37.0
+924,Hamden,2011,514,1650.0
+925,Hampton,2011,0,16.0
+926,Hartland,2011,0,6.0
+927,Harwinton,2011,1,45.0
+928,Hebron,2011,3,92.0
+929,Kent,2011,1,77.0
+930,Killingworth,2011,1,11.0
+931,Lebanon,2011,5,78.0
+932,Ledyard,2011,7,197.0
+933,Lisbon,2011,0,37.0
+934,Litchfield,2011,2,182.0
+935,Madison,2011,1,127.0
+936,Marlborough,2011,0,40.0
+937,Middlebury,2011,3,95.0
+938,Middlefield,2011,0,41.0
+939,Milford,2011,285,1404.0
+940,Monroe,2011,1,55.0
+941,Montville,2011,30,288.0
+942,Morris,2011,2,22.0
+943,Naugatuck,2011,273,1066.0
+944,New Canaan,2011,10,183.0
+945,New Fairfield,2011,0,35.0
+946,New Hartford,2011,0,63.0
+947,New Milford,2011,221,577.0
+948,Newington,2011,84,912.0
+949,Newtown,2011,4,173.0
+950,Norfolk,2011,0,31.0
+951,North Branford,2011,8,122.0
+952,North Canaan,2011,0,108.0
+953,North Haven,2011,29,447.0
+954,North Stonington,2011,1,18.0
+955,Old Lyme,2011,1,69.0
+956,Old Saybrook,2011,5,71.0
+957,Orange,2011,4,59.0
+958,Oxford,2011,1,45.0
+959,Plainville,2011,24,602.0
+960,Plymouth,2011,5,326.0
+961,Pomfret,2011,2,45.0
+962,Portland,2011,91,324.0
+963,Preston,2011,3,77.0
+964,Prospect,2011,4,26.0
+965,Redding,2011,0,0.0
+966,Ridgefield,2011,0,207.0
+967,Rocky Hill,2011,23,432.0
+968,Roxbury,2011,0,20.0
+969,Salem,2011,0,26.0
+970,Salisbury,2011,0,30.0
+971,Scotland,2011,0,9.0
+972,Seymour,2011,25,370.0
+973,Sharon,2011,1,25.0
+974,Shelton,2011,16,435.0
+975,Sherman,2011,1,2.0
+976,Simsbury,2011,12,311.0
+977,Somers,2011,7,77.0
+978,South Windsor,2011,53,715.0
+979,Southbury,2011,2,103.0
+980,Southington,2011,41,982.0
+981,Sprague,2011,9,59.0
+982,Stafford,2011,12,330.0
+983,Sterling,2011,3,33.0
+984,Stonington,2011,16,361.0
+985,Stratford,2011,365,1181.0
+986,Suffield,2011,0,268.0
+987,Thomaston,2011,3,191.0
+988,Thompson,2011,12,216.0
+989,Tolland,2011,2,171.0
+990,Trumbull,2011,13,637.0
+991,Union,2011,0,6.0
+992,Voluntown,2011,2,43.0
+993,Wallingford,2011,141,957.0
+994,Warren,2011,0,2.0
+995,Washington,2011,0,37.0
+996,Waterford,2011,13,328.0
+997,Watertown,2011,19,359.0
+998,West Hartford,2011,942,2069.0
+999,Westbrook,2011,7,184.0
+1000,Weston,2011,1,1.0
+1001,Westport,2011,20,282.0
+1002,Wethersfield,2011,127,968.0
+1003,Willington,2011,4,196.0
+1004,Wilton,2011,4,165.0
+1005,Windsor,2011,245,778.0
+1006,Windsor Locks,2011,149,468.0
+1007,Wolcott,2011,4,437.0
+1008,Woodbridge,2011,5,41.0
+1009,Woodbury,2011,4,83.0
+1010,Woodstock,2011,3,66.0
